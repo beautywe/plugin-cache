@@ -3,7 +3,7 @@ A beautywe plugin warper of [@jerryc/super-cache](https://github.com/JerryC8080/
 
 [![CircleCI](https://circleci.com/gh/beautywe/beautywe-plugin-cache/tree/master.svg?style=svg)](https://circleci.com/gh/beautywe/beautywe-plugin-cache/tree/master)
 
-[![NPM Version](https://img.shields.io/npm/v/@beautywe/plugin-cache.svg)](https://www.npmjs.com/package/@beautywe/plugin-cache) [![NPM Downloads](https://img.shields.io/npm/dm/@beautywe/plugin-cache.svg)](https://www.npmjs.com/package/@beautywe/plugin-cache) ![npm bundle size](https://img.shields.io/bundlephobia/minzip/@beautywe/plugin-cache.svg)[![Coverage Status](https://coveralls.io/repos/github/beautywe/beautywe-plugin-cache/badge.svg)](https://coveralls.io/github/beautywe/beautywe-plugin-cache)
+[![NPM Version](https://img.shields.io/npm/v/@beautywe/plugin-cache.svg)](https://www.npmjs.com/package/@beautywe/plugin-cache) [![NPM Downloads](https://img.shields.io/npm/dm/@beautywe/plugin-cache.svg)](https://www.npmjs.com/package/@beautywe/plugin-cache) ![npm bundle size](https://img.shields.io/bundlephobia/minzip/@beautywe/plugin-cache.svg) [![Coverage Status](https://coveralls.io/repos/github/beautywe/beautywe-plugin-cache/badge.svg)](https://coveralls.io/github/beautywe/beautywe-plugin-cache)
 
 
 # 安装
