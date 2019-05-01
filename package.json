@@ -1,6 +1,6 @@
 {
   "name": "@beautywe/plugin-cache",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An beautywe plugin warp with @jerryc/super-cache",
   "main": "dist/cache.js",
   "scripts": {
